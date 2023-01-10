@@ -272,6 +272,7 @@ header {
     color: var(--black);
     background-color: var(--primarycolor);
     border-radius: 3px;
+    display: inline-block;
 
 }
 .room__resume{
